@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ookamiiixd/baileys-api#readme",
   "engines": {
-    "node": ">=14.5.0"
+    "node": ">=14.5.0",
+      "npm": "~1.0.20",
+      "yarn": "^0.14.0"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^4.2.0",
